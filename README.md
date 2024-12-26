@@ -4,7 +4,7 @@
 
 ### Tecnologias implementadas:
 
-`Node.js, React, Express.js, MongoDB, Mongoose, JWT, TypeScript`
+`Node.js, React, Tailwind CSS, Express.js, MongoDB, Mongoose, JWT, Cloudinary, TypeScript`
 
 Repositorio de Frontend - [Repositorio](https://github.com/Calvinuhh/devtree_client)
 
