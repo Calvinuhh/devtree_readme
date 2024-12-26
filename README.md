@@ -93,7 +93,7 @@ Una vez levantado el servidor de la base de datos, se procedera a levantar el se
 
 ## devtree_server
 
-Para esto en la carpeta devtree_server se implementara el comando npm run:
+Para esto en la carpeta devtree_server se implementara el comando `npm run`:
 
 ```powershell
   start
