@@ -89,7 +89,7 @@ Como se menciono anteriormente si no se quiere implementar **_Mongo Atlas_** se 
 mongod
 ```
 
-Una vez levantado el servidor de la base de datos, se procedera a levantar el servidor.
+Una vez levantado el servidor de la base de datos, se procedera a levantar el servidor del proyecto.
 
 ## devtree_server
 
